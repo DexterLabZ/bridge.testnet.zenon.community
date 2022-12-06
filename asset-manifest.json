@@ -1,25 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d4be1fa.css",
-    "main.js": "/static/js/main.59d28860.js",
+    "main.css": "/static/css/main.ec0a57b5.css",
+    "main.js": "/static/js/main.cab6e5c6.js",
     "static/js/787.ce206071.chunk.js": "/static/js/787.ce206071.chunk.js",
     "static/media/bg-shapes.png": "/static/media/bg-shapes.e97f09c97a852be19d31.png",
     "static/media/swirl.svg": "/static/media/swirl.2fafa76c588b638eeb0cc9ad808012db.svg",
     "static/media/metamask.svg": "/static/media/metamask.a622bbd390fb63631ba1016291fece1c.svg",
+    "static/media/swap.svg": "/static/media/swap.9587b2126cf5b1f5e5efe262b9c14e35.svg",
+    "static/media/syrius-logo.svg": "/static/media/syrius-logo.1ef2da2864a2937aebf2462f44194e36.svg",
+    "static/media/qsr.svg": "/static/media/qsr.cf3e6ab78786f6c4c2f53cf97223fa82.svg",
+    "static/media/bnb.svg": "/static/media/bnb.dbdbddc71a51c1c7c36203cae0316817.svg",
+    "static/media/list.svg": "/static/media/list.52808118a3500692698e3cd56858affd.svg",
+    "static/media/eth-purple.svg": "/static/media/eth-purple.0e90bace28275083cdf8da8248c0cd10.svg",
     "static/media/info-icon.svg": "/static/media/info-icon.a906dbbaef0aa44db9a9a09b93c913ce.svg",
     "static/media/spinner.svg": "/static/media/spinner.b2e768d9f95e2fdcbce86e3b88841088.svg",
     "index.html": "/index.html",
-    "static/media/zenon.svg": "/static/media/zenon.2b3fbdaff16345272e117ac1af27c2d8.svg",
+    "static/media/znn.svg": "/static/media/znn.46662cef2e763003824ada66088b3e6d.svg",
+    "static/media/zenon.svg": "/static/media/zenon.cd6d449269ff8c4da46a625a75881150.svg",
+    "static/media/block-solid.svg": "/static/media/block-solid.a9722bc03782051901cb743746a27e72.svg",
+    "static/media/home.svg": "/static/media/home.c8eb8e05ece9b767fe9cc47b2a31926b.svg",
     "static/media/arrow-down-white.svg": "/static/media/arrow-down-white.87b386f03327753c85556f26cdaf6652.svg",
     "static/media/green-checkmark.svg": "/static/media/green-checkmark.8ef01fdb48439523c8a551b163cc0850.svg",
     "static/media/transfer-arrow.svg": "/static/media/transfer-arrow.485a9da5d468220b41f2467e5356886a.svg",
-    "static/media/send-right-green.svg": "/static/media/send-right-green.96ea6a9b90816e8adf10aa504f573580.svg",
-    "main.7d4be1fa.css.map": "/static/css/main.7d4be1fa.css.map",
-    "main.59d28860.js.map": "/static/js/main.59d28860.js.map",
+    "main.ec0a57b5.css.map": "/static/css/main.ec0a57b5.css.map",
+    "main.cab6e5c6.js.map": "/static/js/main.cab6e5c6.js.map",
     "787.ce206071.chunk.js.map": "/static/js/787.ce206071.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d4be1fa.css",
-    "static/js/main.59d28860.js"
+    "static/css/main.ec0a57b5.css",
+    "static/js/main.cab6e5c6.js"
   ]
 }
