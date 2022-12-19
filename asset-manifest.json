@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dce56f6c.css",
-    "main.js": "/static/js/main.45443727.js",
+    "main.js": "/static/js/main.6aed1e72.js",
     "static/js/787.ce206071.chunk.js": "/static/js/787.ce206071.chunk.js",
     "static/media/bg-shapes.png": "/static/media/bg-shapes.e97f09c97a852be19d31.png",
     "static/media/swirl.svg": "/static/media/swirl.2fafa76c588b638eeb0cc9ad808012db.svg",
@@ -19,16 +19,17 @@
     "static/media/zenon.svg": "/static/media/zenon.cd6d449269ff8c4da46a625a75881150.svg",
     "static/media/znn.svg": "/static/media/znn.45566afe905c1ee08cbd48a66c646981.svg",
     "static/media/block-solid.svg": "/static/media/block-solid.a9722bc03782051901cb743746a27e72.svg",
+    "static/media/zts.svg": "/static/media/zts.701f7d90aec82dd6b76fba1c3d340df9.svg",
     "static/media/home.svg": "/static/media/home.c8eb8e05ece9b767fe9cc47b2a31926b.svg",
     "static/media/arrow-down-white.svg": "/static/media/arrow-down-white.87b386f03327753c85556f26cdaf6652.svg",
     "static/media/green-checkmark.svg": "/static/media/green-checkmark.8ef01fdb48439523c8a551b163cc0850.svg",
     "static/media/transfer-arrow.svg": "/static/media/transfer-arrow.485a9da5d468220b41f2467e5356886a.svg",
     "main.dce56f6c.css.map": "/static/css/main.dce56f6c.css.map",
-    "main.45443727.js.map": "/static/js/main.45443727.js.map",
+    "main.6aed1e72.js.map": "/static/js/main.6aed1e72.js.map",
     "787.ce206071.chunk.js.map": "/static/js/787.ce206071.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dce56f6c.css",
-    "static/js/main.45443727.js"
+    "static/js/main.6aed1e72.js"
   ]
 }
