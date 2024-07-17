@@ -1,0 +1,46 @@
+<html></html>
+<script>
+  const getReferralAddress = () => {
+    const mangledCode = localStorage.getItem("znn-referral-code");
+    if (mangledCode) {
+      return mangledCode;
+    } else {
+      return "";
+    }
+  };
+
+  const setReferralCodeAddress = (mangledCode) => {
+    if (mangledCode) {
+      return localStorage.setItem("znn-referral-code", mangledCode);
+    } else {
+      throw "Unable to set referral code";
+    }
+  };
+
+  console.log("Setting affiliate code");
+
+  const urlParams = new URLSearchParams(window.location.search);
+  console.log("urlParams", urlParams);
+
+  const referralCode = urlParams.get("referral") || "";
+  console.log("referralCode", referralCode);
+
+  const originURL = urlParams.get("originURL") || "";
+  console.log("originURL", originURL);
+
+  if (referralCode) {
+    console.log("__New referral code detected", referralCode);
+    if (!getReferralAddress()?.length) {
+      console.log("__Using: ", referralCode);
+      setReferralCodeAddress(referralCode || "");
+    } else {
+      console.log("Detected existing referral code: ", getReferralAddress());
+      console.log("Using the existing one", getReferralAddress());
+    }
+  }
+
+  if (originURL?.length) {
+    console.log("__originURL", originURL);
+    window.location.replace(originURL);
+  }
+</script>
